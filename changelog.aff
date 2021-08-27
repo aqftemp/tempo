@@ -3,3 +3,24 @@
 <size=24> BUILD 224 from 27.08.2021 </size>
 <size=18> +<color=#FFFFFF> ADDED CHANGELOG  </color></size>
 <size=18> +<color=#FFFFFF> FIXED NUMEROUS AI ERRORS  </color></size>
+
+<size=24> BUILD 223 from 27.08.2021 </size>
+<size=18> +<color=#FFFFFF> Fixed a lot of problems with ai overlay  </color></size>
+<size=18> +<color=#FFFFFF> Simplified generic npc controllers  </color></size>
+<size=18> +<color=#FFFFFF> Fixed player healing, now the health restores properly no matter the supply  </color></size>
+<size=18> +<color=#FFFFFF> Added a batch file for laptop users to test in itch.io app  </color></size>
+
+<size=24> BUILD 222 from 24.08.2021 </size>
+<size=18> +<color=#FFFFFF> Various AI overlay improvements  </color></size>
+
+<size=24> BUILD 221 from 11.07.2021 </size>
+<size=18> +<color=#FFFFFF> Optimized NPC targeting and scanning  </color></size>
+<size=18> +<color=#FFFFFF> Weapons can now be spawned through .bsp  </color></size>
+
+<size=24> BUILD 220 from 05.07.2021 </size>
+<size=18> +<color=#FFFFFF> NPCs can now lob grenades  </color></size>
+<size=18> +<color=#FFFFFF> NPCs now hide to reload  </color></size>
+<size=18> +<color=#FFFFFF> Minor graphical optimization  </color></size>
+
+<size=24> BUILD 219 from 29.06.2021 </size>
+<size=18> +<color=#FFFFFF> Updating basic ai as well as the overlays  </color></size>
