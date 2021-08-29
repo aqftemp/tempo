@@ -1,5 +1,8 @@
 <size=40><color=#FFFFFF>CHANGELOG</color></size>
 
+<size=24> BUILD 2007 from 29.08.2021 </size>
+<size=18> +<color=#FFFFFF> Fixed UI for ultra wide monitors </color></size>
+
 <size=24> BUILD 2002 from 27.08.2021 </size>
 <size=18> +<color=#FFFFFF> Added changelog  </color></size>
 <size=18> +<color=#FFFFFF> Switched to a different version management system  </color></size>
