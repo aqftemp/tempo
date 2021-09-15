@@ -1,5 +1,8 @@
 <size=40><color=#FFFFFF>CHANGELOG</color></size>
 
+<size=24> BUILD 2057 from 15.09.2021 </size>
+<size=18> +<color=#FFFFFF> Fixed a bug when at least one unit was not responding to new commands</color></size>
+<size=18> +<color=#FFFFFF> Set reloading speed to 0.5 seconds for testing purposes</color></size>
 
 <size=24> BUILD 2056 from 15.09.2021 </size>
 <size=18> +<color=#FFFFFF> Simplified AI controller</color></size>
