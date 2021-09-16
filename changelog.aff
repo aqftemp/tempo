@@ -1,6 +1,13 @@
 <size=40><color=#FFFFFF>CHANGELOG</color></size>
 
-<size=24> BUILD 2057 from 15.09.2021 </size>
+<size=24> CYBERBUILD 2077 from 17.09.2021 </size>
+<size=18> +<color=#FFFFFF> NPCs now move when you shoot them</color></size>
+<size=18> +<color=#FFFFFF> NPCs avoid smg grenades fired at them</color></size>
+<size=18> +<color=#FFFFFF> Reworked audio alerts component</color></size>
+<size=18> +<color=#FFFFFF> Reworked attack pattern</color></size>
+<size=18> +<color=#FFFFFF> NPCs can fire smg grenades, as well as the regular ones</color></size>
+
+<size=24> BUILD 2057 from 16.09.2021 </size>
 <size=18> +<color=#FFFFFF> Fixed a bug when at least one unit was not responding to new commands</color></size>
 <size=18> +<color=#FFFFFF> Set reloading speed to 0.5 seconds for testing purposes</color></size>
 
