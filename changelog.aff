@@ -1,5 +1,11 @@
 <size=40><color=#FFFFFF>CHANGELOG</color></size>
 
+<size=24> BUILD 2086 from 18.09.2021 </size>
+<size=18> +<color=#FFFFFF> NPCs are much better at throwing grenades now</color></size>
+<size=18> +<color=#FFFFFF> Reduced the number of difficulties to Easy and Hard, so that you can modify the difficulty settings (located at qf_Data/StreamingAssets/difficulty)</color></size>
+<size=18> +<color=#FFFFFF> Added more AI Cvars for you to play with</color></size>
+<size=18> +<color=#FFFFFF> Replaced the ragdoll sounds</color></size>
+
 <size=24> CYBERBUILD 2077 from 16.09.2021 </size>
 <size=18> +<color=#FFFFFF> NPCs now move when you shoot them</color></size>
 <size=18> +<color=#FFFFFF> NPCs avoid smg grenades fired at them</color></size>
