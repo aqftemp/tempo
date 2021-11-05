@@ -1,5 +1,13 @@
 <size=40><color=#FFFFFF>CHANGELOG</color></size>
 
+<size=24> BUILD 2144 from 06.11.2021 </size>
+<size=18> +<color=#FFFFFF> New NPC voices</color></size>
+<size=18> +<color=#FFFFFF> NPC speech system, dynamically constructing sentences.</color></size>
+<size=18> +<color=#FFFFFF> Added NPC melee ability.</color></size>
+<size=18> +<color=#FFFFFF> Updated NPC overlays.</color></size>
+<size=18> +<color=#FFFFFF> Updated sound spawning systems to reuse as many audio sources as possible.</color></size>
+<size=18> +<color=#FFFFFF> Replaced quite a few sounds for physical materials</color></size>
+
 <size=24> BUILD 2086 from 18.09.2021 </size>
 <size=18> +<color=#FFFFFF> NPCs are much better at throwing grenades now</color></size>
 <size=18> +<color=#FFFFFF> Reduced the number of difficulties to Easy and Hard, so that you can modify the difficulty settings (located at qf_Data/StreamingAssets/difficulty)</color></size>
