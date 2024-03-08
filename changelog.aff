@@ -1,5 +1,10 @@
 <size=40><color=#FFFFFF>CHANGELOG</color></size>
 
+<size=24> BUILD 3103 from 08.03.2024 </size>
+<size=18> +<color=#FFFFFF> Resumed pushing new builds.</color></size>
+<size=18> +<color=#FFFFFF> Re-implemented some of the weapons with new models, animations and scripting.</color></size>
+<size=18> +<color=#FFFFFF> Re-implemented all items. </color></size>
+
 <size=24> BUILD 2164 from 06.11.2021 </size>
 <size=18> +<color=#FFFFFF> Fixed inaccessible mouse options menu.</color></size>
 <size=18> +<color=#FFFFFF> Fixed default resolution reverting to 1px in width.</color></size>
