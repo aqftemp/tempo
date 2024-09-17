@@ -1,14 +1,15 @@
 <size=40>NEWS</size>
 
-<size=24> SOURCE CODE NOW AVAILABLE [09.02.2024] </size>
-<size=18> You can now download the source code of the project from this game's page on itch.io. Requires Unity 2019.4.4 or newer.</size>
+<size=28> SOURCE CODE NOW AVAILABLE [09.02.2024] </size>
+<size=16> You can now download the source code of the project from this game's page on itch.io. Requires Unity 2019.4.4 or newer.</size>
+
 
 <size=40>CHANGELOG</size>
 
-<size=24> BUILD 3523 [09.17.2024] </size>
-<size=18> +Enemy AI has been reworked.</size>
-<size=18> +Updated general aestetics of HUD.</size>
-<size=18> +Added the new game panel with scenario selection.</size>
-<size=18> +Added skills and hidden perks in the inventory.</size>
-<size=18> +Added basic parasites.</size>
-<size=18> +Added more props.</size>
+<size=28> BUILD 3523 [09.17.2024] </size>
+<size=16> +Enemy AI has been reworked.</size>
+<size=16> +Updated general aestetics of HUD.</size>
+<size=16> +Added the new game panel with scenario selection.</size>
+<size=16> +Added skills and hidden perks in the inventory.</size>
+<size=16> +Added basic parasites.</size>
+<size=16> +Added more props.</size>
