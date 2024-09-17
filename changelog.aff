@@ -1,12 +1,14 @@
-<size=40>NEWS</size>
+<size=40><color=#FFFFFF>NEWS</color></size>
 
-<size=28>SOURCE CODE NOW AVAILABLE [09.02.2024] </size>
+<size=28>SOURCE CODE NOW AVAILABLE</size> 
+<size=20>[09.02.2024] </size>
 <size=16>You can now download the source code of the project from this game's page on itch.io. Requires Unity 2019.4.4 or newer.</size>
 
 
-<size=40>CHANGELOG</size>
+<size=40><color=#FFFFFF>CHANGELOG</color></size>
 
-<size=28>BUILD 3523 [09.17.2024] </size>
+<size=28>BUILD 3523</size>
+<size=20>[09.17.2024]</size>
 <size=16>+Enemy AI has been reworked.</size>
 <size=16>+Updated general aestetics of HUD.</size>
 <size=16>+Added the new game panel with scenario selection.</size>
