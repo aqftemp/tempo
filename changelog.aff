@@ -19,3 +19,11 @@
 <size=16>+Added new enemy animatons.</size>
 <size=16>+Improved audio range.</size>
 <size=16>+Fixed a lot of ai related issues.</size>
+
+<size=28>BUILD 3523</size>
+<size=20>[17.09.2024]</size>
+<size=16>+Enemy AI has been reworked.</size>
+<size=16>+Updated general aestetics of HUD.</size>
+<size=16>+Added the new game panel with scenario selection.</size>
+<size=16>+Added skills and hidden perks in the inventory.</size>
+<size=16>+Added basic parasites.</size>
