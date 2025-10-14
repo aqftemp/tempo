@@ -1,5 +1,12 @@
 <size=40><color=#FFFFFF>NEWS</color></size>
 
+<size=28>WARNING!!!!!!!!</size> 
+<size=20>[10.14.2025] </size>
+<size=20>It is RECOMMENDED that you update the game to the latest version!!! </size>
+An exploit was found in unity engine games, which allows remote code execution. TLDR: It's bad.
+I have patched the editor and newest versions are safe, but the same cannot be said about the versions before 10.14.2025. 
+Please stay vigilant!
+
 <size=28>SOURCE CODE V4 NOW AVAILABLE</size> 
 <size=20>[10.09.2025] </size>
 <size=16>You can now download the source code of the project from this game's page on itch.io. Requires Unity 2019.4.4 or newer.</size>
